@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="2190">
+<rect width="100%" height="100%" fill="white" />
+<rect x="15" y="20" width="310" height="75" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="170,95 170,2160" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<rect x="365" y="20" width="310" height="75" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="520,95 520,2160" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<rect x="715" y="20" width="310" height="75" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="870,95 870,2160" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<rect x="1065" y="20" width="310" height="75" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="1220,95 1220,2160" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<rect x="514" y="180" width="12" height="1370" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<rect x="864" y="370" width="12" height="1110" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="170,180 520,180" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="505.0,187.0 520,180 505.0,173.0" fill="black" stroke="black" stroke-width="1.5" />
+<rect x="25" y="225" width="1350" height="1360" rx="0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="25,225 90,225 90,250 78,262 25,262" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="520,325 170,325" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="185.0,318.0 170,325 185.0,332.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="25,360 1375,360" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="520,450 870,450" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="855.0,457.0 870,450 855.0,443.0" fill="black" stroke="black" stroke-width="1.5" />
+<polyline points="870,540 1220,540" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="1205.0,547.0 1220,540 1205.0,533.0" fill="black" stroke="black" stroke-width="1.5" />
+<polyline points="1220,625 870,625" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="885.0,618.0 870,625 885.0,632.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="870,720 1220,720" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="1205.0,727.0 1220,720 1205.0,713.0" fill="black" stroke="black" stroke-width="1.5" />
+<polyline points="1220,800 870,800" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="885.0,793.0 870,800 885.0,807.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="870,890 1220,890" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="1205.0,897.0 1220,890 1205.0,883.0" fill="black" stroke="black" stroke-width="1.5" />
+<polyline points="1220,970 870,970" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="885.0,963.0 870,970 885.0,977.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="720" y="1025" width="650" height="340" rx="0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="720,1025 785,1025 785,1050 773,1062 720,1062" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="870,1125 1040,1125 1040,1160 870,1160" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="885.0,1153.0 870,1160 885.0,1167.0" fill="black" stroke="black" stroke-width="1.5" />
+<polyline points="720,1190 1370,1190" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="870,1300 1040,1300 1040,1335 870,1335" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="885.0,1328.0 870,1335 885.0,1342.0" fill="black" stroke="black" stroke-width="1.5" />
+<polyline points="870,1450 520,1450" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="535.0,1443.0 520,1450 535.0,1457.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="520,1540 170,1540" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="185.0,1533.0 170,1540 185.0,1547.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="25" y="1600" width="1350" height="530" rx="0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="25,1600 90,1600 90,1625 78,1637 25,1637" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="170,1710 520,1710" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="505.0,1717.0 520,1710 505.0,1703.0" fill="black" stroke="black" stroke-width="1.5" />
+<rect x="514" y="1710" width="12" height="400" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<rect x="864" y="1790" width="12" height="240" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="520,1790 870,1790" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="855.0,1797.0 870,1790 855.0,1783.0" fill="black" stroke="black" stroke-width="1.5" />
+<polyline points="870,1870 1220,1870" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="1205.0,1877.0 1220,1870 1205.0,1863.0" fill="black" stroke="black" stroke-width="1.5" />
+<polyline points="1220,1950 870,1950" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="885.0,1943.0 870,1950 885.0,1957.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="870,2030 520,2030" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="535.0,2023.0 520,2030 535.0,2037.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="520,2110 170,2110" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<polyline points="185.0,2103.0 170,2110 185.0,2117.0" fill="none" stroke="black" stroke-width="1.5" />
+<text x="85.5" y="65.0" font-family="Arial" font-size="20">Экран «Прогресс»</text>
+<text x="786.5" y="65.0" font-family="Arial" font-size="20">Сервис прогресса</text>
+<text x="1129.0" y="65.0" font-family="Arial" font-size="20">Хранилище данных</text>
+<rect x="239.5" y="137.0" width="211.0" height="24" fill="white" />
+<rect x="30" y="229.5" width="25.0" height="25" fill="white" />
+<text x="32" y="249.5" font-family="Arial" font-size="20">alt</text>
+<rect x="103" y="233.0" width="409.0" height="23" fill="white" />
+<text x="105" y="251.0" font-family="Arial" font-size="18">[неверный формат или недопустимое значение]</text>
+<rect x="230.5" y="282.0" width="229.0" height="24" fill="white" />
+<text x="232.5" y="301.0" font-family="Arial" font-size="19">2. Вернуть ошибку ввода</text>
+<rect x="43" y="380.0" width="188.0" height="25" fill="white" />
+<text x="45" y="400.0" font-family="Arial" font-size="20">[данные корректны]</text>
+<rect x="609.5" y="407.0" width="171.0" height="24" fill="white" />
+<rect x="899.0" y="497.0" width="292.0" height="24" fill="white" />
+<rect x="942.5" y="570.0" width="205.0" height="24" fill="white" />
+<text x="944.5" y="589.0" font-family="Arial" font-size="19">5. Предыдущий замер</text>
+<rect x="957.0" y="594.0" width="176.0" height="24" fill="white" />
+<text x="959.0" y="613.0" font-family="Arial" font-size="19">или его отсутствие</text>
+<rect x="905.0078125" y="665.0" width="279.984375" height="24" fill="white" />
+<rect x="906.0" y="689.0" width="278.0" height="24" fill="white" />
+<rect x="958.5" y="757.0" width="173.0" height="24" fill="white" />
+<text x="960.5" y="776.0" font-family="Arial" font-size="19">7. Замер сохранён</text>
+<rect x="927.0" y="835.0" width="236.0" height="24" fill="white" />
+<text x="929.0" y="854.0" font-family="Arial" font-size="19">8. Получить замеры, рост</text>
+<rect x="918.5" y="859.0" width="253.0" height="24" fill="white" />
+<text x="920.5" y="878.0" font-family="Arial" font-size="19">и сводку питания за период</text>
+<rect x="936.0" y="915.0" width="218.0" height="24" fill="white" />
+<text x="938.0" y="934.0" font-family="Arial" font-size="19">9. Данные для графика,</text>
+<rect x="981.0" y="939.0" width="128.0" height="24" fill="white" />
+<text x="983.0" y="958.0" font-family="Arial" font-size="19">ИМТ и сводки</text>
+<rect x="725" y="1029.5" width="25.0" height="25" fill="white" />
+<text x="727" y="1049.5" font-family="Arial" font-size="20">alt</text>
+<rect x="798" y="1033.0" width="318.0" height="23" fill="white" />
+<text x="800" y="1051.0" font-family="Arial" font-size="18">[замеры минимум за три дня из семи]</text>
+<rect x="898" y="1083.0" width="279.0" height="24" fill="white" />
+<text x="900" y="1102.0" font-family="Arial" font-size="19">Рассчитать среднее за 7 дней</text>
+<rect x="798" y="1205.0" width="282.0" height="24" fill="white" />
+<text x="800" y="1224.0" font-family="Arial" font-size="19">[замеры менее чем за три дня]</text>
+<rect x="898" y="1245.0" width="231.0" height="24" fill="white" />
+<text x="900" y="1264.0" font-family="Arial" font-size="19">Подготовить сообщение:</text>
+<rect x="898" y="1269.0" width="353.0" height="24" fill="white" />
+<text x="900" y="1288.0" font-family="Arial" font-size="19">«Недостаточно данных для среднего»</text>
+<rect x="579.5234375" y="1395.0" width="230.953125" height="24" fill="white" />
+<text x="581.5234375" y="1414.0" font-family="Arial" font-size="19">10. График, ИМТ, сводка,</text>
+<rect x="582.0" y="1419.0" width="226.0" height="24" fill="white" />
+<text x="584.0" y="1438.0" font-family="Arial" font-size="19">среднее или сообщение</text>
+<rect x="241.515625" y="1485.0" width="206.96875" height="24" fill="white" />
+<rect x="237.0" y="1509.0" width="216.0" height="24" fill="white" />
+<rect x="30" y="1604.5" width="32.0" height="25" fill="white" />
+<text x="32" y="1624.5" font-family="Arial" font-size="20">opt</text>
+<rect x="103" y="1608.0" width="367.0" height="23" fill="white" />
+<text x="105" y="1626.0" font-family="Arial" font-size="18">[пользователь заполняет «Самочувствие»]</text>
+<rect x="209.5" y="1655.0" width="271.0" height="24" fill="white" />
+<rect x="192.5" y="1679.0" width="305.0" height="24" fill="white" />
+<rect x="562.5" y="1747.0" width="265.0" height="24" fill="white" />
+<text x="564.5" y="1766.0" font-family="Arial" font-size="19">13. Сохранить самочувствие</text>
+<rect x="948.5" y="1827.0" width="193.0" height="24" fill="white" />
+<text x="950.5" y="1846.0" font-family="Arial" font-size="19">14. Записать данные</text>
+<rect x="944.5" y="1907.0" width="201.0" height="24" fill="white" />
+<text x="946.5" y="1926.0" font-family="Arial" font-size="19">15. Запись сохранена</text>
+<rect x="574.515625" y="1987.0" width="240.96875" height="24" fill="white" />
+<text x="576.515625" y="2006.0" font-family="Arial" font-size="19">16. Результат сохранения</text>
+<rect x="211.5" y="2067.0" width="267.0" height="24" fill="white" />
+<text x="213.5" y="2086.0" font-family="Arial" font-size="19">17. Подтвердить сохранение</text>
+<text x="520.0" y="53.5" font-family="Arial" font-size="20.0" text-anchor="middle">Контроллер и сервис</text><text x="520.0" y="77.5" font-family="Arial" font-size="20.0" text-anchor="middle">синхронизации</text><text x="345.0" y="145.0" font-family="Arial" font-size="19.0" text-anchor="middle">1. POST /sync:</text><text x="345.0" y="168.0" font-family="Arial" font-size="19.0" text-anchor="middle">операция, вес и дата</text><text x="695.0" y="426.5" font-family="Arial" font-size="19.0" text-anchor="middle">3. Применить новую операцию</text><text x="1045.0" y="505.0" font-family="Arial" font-size="19.0" text-anchor="middle">4. Получить последний замер</text><text x="1045.0" y="528.0" font-family="Arial" font-size="19.0" text-anchor="middle">предыдущего дня</text><text x="1045.0" y="685.0" font-family="Arial" font-size="19.0" text-anchor="middle">6. Сохранить замер и отметку</text><text x="1045.0" y="708.0" font-family="Arial" font-size="19.0" text-anchor="middle">при изменении более 5 %</text><text x="345.0" y="1505.0" font-family="Arial" font-size="19.0" text-anchor="middle">11. Результат операции</text><text x="345.0" y="1528.0" font-family="Arial" font-size="19.0" text-anchor="middle">и обновлённый прогресс</text><text x="345.0" y="1675.0" font-family="Arial" font-size="19.0" text-anchor="middle">12. POST /sync:</text><text x="345.0" y="1698.0" font-family="Arial" font-size="19.0" text-anchor="middle">операция, дата и факторы</text></svg>

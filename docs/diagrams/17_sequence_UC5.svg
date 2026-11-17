@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1600">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="15.0" y="20" width="230" height="80" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="130.0,100 130.0,1575" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<rect x="295.0" y="20" width="230" height="80" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="410.0,100 410.0,1575" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<rect x="575.0" y="20" width="230" height="80" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="690.0,100 690.0,1575" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<rect x="855.0" y="20" width="230" height="80" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="970.0,100 970.0,1575" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<rect x="404.0" y="190" width="12" height="300" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="684.0" y="290" width="12" height="100" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="130.0,190 410.0,190" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="395.0,197.0 410.0,190 395.0,183.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="410.0,290 690.0,290" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="675.0,297.0 690.0,290 675.0,283.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="690.0,390 410.0,390" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="425.0,383.0 410.0,390 425.0,397.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="410.0,490 130.0,490" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="145.0,483.0 130.0,490 145.0,497.0" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="5" y="550" width="1085" height="990" rx="0" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="5,550 70,550 70,575 58,587 5,587" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="404.0" y="650" width="12" height="670" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="684.0" y="750" width="12" height="480" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="130.0,650 410.0,650" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="395.0,657.0 410.0,650 395.0,643.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="410.0,750 690.0,750" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="675.0,757.0 690.0,750 675.0,743.0" fill="black" stroke="black" stroke-width="1.5"/>
+<rect x="305" y="810" width="780" height="470" rx="0" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="305,810 370,810 370,835 358,847 305,847" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="690.0,900 970.0,900" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="955.0,907.0 970.0,900 955.0,893.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="970.0,990 690.0,990" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="705.0,983.0 690.0,990 705.0,997.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="690.0,1080 410.0,1080" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="425.0,1073.0 410.0,1080 425.0,1087.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="305,1120 1085,1120" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="690.0,1230 410.0,1230" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="425.0,1223.0 410.0,1230 425.0,1237.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="410.0,1320 130.0,1320" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="145.0,1313.0 130.0,1320 145.0,1327.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="5,1380 1090,1380" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="130.0,1490 410.0,1490" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="395.0,1497.0 410.0,1490 395.0,1483.0" fill="black" stroke="black" stroke-width="1.5"/>
+<text x="120.5" y="55.0" font-family="Arial" font-size="18">ui:</text>
+<text x="92.5" y="78.0" font-family="Arial" font-size="18">PlanView</text>
+<text x="370.5" y="55.0" font-family="Arial" font-size="18">controller:</text>
+<text x="353.0" y="78.0" font-family="Arial" font-size="18">PlanController</text>
+<text x="659.0" y="55.0" font-family="Arial" font-size="18">service:</text>
+<text x="642.0" y="78.0" font-family="Arial" font-size="18">PlanService</text>
+<text x="957.5" y="55.0" font-family="Arial" font-size="18">db:</text>
+<text x="909.0" y="78.0" font-family="Arial" font-size="18">PlanRepository</text>
+<rect x="200.5" y="146.5" width="139.0" height="22" fill="white"/>
+<text x="202.5" y="163.5" font-family="Arial" font-size="17">1: preview(profile)</text>
+<rect x="480.5" y="246.5" width="139.0" height="22" fill="white"/>
+<text x="482.5" y="263.5" font-family="Arial" font-size="17">2: preview(profile)</text>
+<rect x="461.5" y="346.5" width="177.0" height="22" fill="white"/>
+<text x="463.5" y="363.5" font-family="Arial" font-size="17">3: рассчитанный план</text>
+<rect x="176.5" y="446.5" width="187.0" height="22" fill="white"/>
+<text x="178.5" y="463.5" font-family="Arial" font-size="17">4: показать новый план</text>
+<rect x="10" y="554.5" width="25.0" height="25" fill="white"/>
+<text x="12" y="574.5" font-family="Arial" font-size="20">alt</text>
+<rect x="83" y="558.0" width="236.0" height="23" fill="white"/>
+<text x="85" y="576.0" font-family="Arial" font-size="18">[пользователь подтвердил]</text>
+<rect x="185.5" y="606.5" width="169.0" height="22" fill="white"/>
+<text x="187.5" y="623.5" font-family="Arial" font-size="17">5: confirm(id, version)</text>
+<rect x="465.5" y="706.5" width="169.0" height="22" fill="white"/>
+<text x="467.5" y="723.5" font-family="Arial" font-size="17">6: confirm(id, version)</text>
+<rect x="310" y="814.5" width="25.0" height="25" fill="white"/>
+<text x="312" y="834.5" font-family="Arial" font-size="20">alt</text>
+<rect x="383" y="818.0" width="163.0" height="23" fill="white"/>
+<text x="385" y="836.0" font-family="Arial" font-size="18">[версия актуальна]</text>
+<rect x="760.5" y="845.5" width="139.0" height="22" fill="white"/>
+<text x="762.5" y="862.5" font-family="Arial" font-size="17">7: заменить план</text>
+<rect x="750.5" y="867.5" width="159.0" height="22" fill="white"/>
+<text x="752.5" y="884.5" font-family="Arial" font-size="17">в одной транзакции</text>
+<rect x="784.5" y="946.5" width="91.0" height="22" fill="white"/>
+<text x="786.5" y="963.5" font-family="Arial" font-size="17">8: COMMIT</text>
+<rect x="454.5" y="1036.5" width="191.0" height="22" fill="white"/>
+<text x="456.5" y="1053.5" font-family="Arial" font-size="17">9: новый план сохранён</text>
+<rect x="383" y="1135.0" width="155.0" height="23" fill="white"/>
+<text x="385" y="1153.0" font-family="Arial" font-size="18">[версия устарела]</text>
+<rect x="451.5" y="1186.5" width="197.0" height="22" fill="white"/>
+<text x="453.5" y="1203.5" font-family="Arial" font-size="17">10: 409; новый просмотр</text>
+<rect x="214.515625" y="1265.5" width="110.96875" height="22" fill="white"/>
+<text x="216.515625" y="1282.5" font-family="Arial" font-size="17">11: результат</text>
+<rect x="207.5" y="1287.5" width="125.0" height="22" fill="white"/>
+<text x="209.5" y="1304.5" font-family="Arial" font-size="17">подтверждения</text>
+<rect x="83" y="1400.0" width="219.0" height="23" fill="white"/>
+<text x="85" y="1418.0" font-family="Arial" font-size="18">[пользователь отказался]</text>
+<rect x="181.0" y="1435.5" width="178.0" height="22" fill="white"/>
+<text x="183.0" y="1452.5" font-family="Arial" font-size="17">12: закрыть просмотр;</text>
+<rect x="175.5" y="1457.5" width="189.0" height="22" fill="white"/>
+<text x="177.5" y="1474.5" font-family="Arial" font-size="17">старый план действует</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1350">
+<rect width="100%" height="100%" fill="white"/>
+<ellipse cx="550.0" cy="22.0" rx="12.0" ry="12.0" fill="black" stroke="black" stroke-width="1.5"/>
+<rect x="320" y="90" width="460" height="80" rx="15" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="550.0,34 550.0,90" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="543.0,75.0 550.0,90 557.0,75.0" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="320" y="240" width="460" height="90" rx="15" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="550.0,170 550.0,240" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="543.0,225.0 550.0,240 557.0,225.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="550.0,420 595,450.0 550.0,480 505,450.0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="550.0,330 550.0,420" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="543.0,405.0 550.0,420 557.0,405.0" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="35" y="560" width="370" height="80" rx="15" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="505,450.0 220,450 220.0,560" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="213.0,545.0 220.0,560 227.0,545.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="550.0,720 595,750.0 550.0,780 505,750.0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="550.0,480 550.0,720" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="543.0,705.0 550.0,720 557.0,705.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="220.0,640 220,750 505,750.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="490.0,757.0 505,750.0 490.0,743.0" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="360" y="850" width="590" height="80" rx="15" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="550.0,780 550,810 655,810 655.0,850" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="648.0,835.0 655.0,850 662.0,835.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="655.0,1010 700,1040.0 655.0,1070 610,1040.0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="655.0,930 655.0,1010" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="648.0,995.0 655.0,1010 662.0,995.0" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="40" y="1150" width="400" height="80" rx="15" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="660" y="1150" width="400" height="80" rx="15" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="610,1040.0 240,1040 240.0,1150" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="233.0,1135.0 240.0,1150 247.0,1135.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="700,1040.0 860,1040 860.0,1150" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="853.0,1135.0 860.0,1150 867.0,1135.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="655.0,1070 655,1110 1080,1110 1080,750 595,750.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="610.0,743.0 595,750.0 610.0,757.0" fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="240.0" cy="1304.0" rx="14.0" ry="14.0" fill="white" stroke="black" stroke-width="1.5"/>
+<ellipse cx="240.0" cy="1304.0" rx="8.0" ry="8.0" fill="black" stroke="black" stroke-width="1.5"/>
+<ellipse cx="860.0" cy="1304.0" rx="14.0" ry="14.0" fill="white" stroke="black" stroke-width="1.5"/>
+<ellipse cx="860.0" cy="1304.0" rx="8.0" ry="8.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="240.0,1230 240.0,1290" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="233.0,1275.0 240.0,1290 247.0,1275.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="860.0,1230 860.0,1290" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="853.0,1275.0 860.0,1290 867.0,1275.0" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="387.0" y="137.5" font-family="Arial" font-size="20">Выбрать продукт и указать порцию</text>
+<text x="412.5" y="280.0" font-family="Arial" font-size="20">Сохранить порцию и команду</text>
+<text x="476.0" y="305.0" font-family="Arial" font-size="20">в локальной БД</text>
+<rect x="618" y="435.0" width="93.0" height="23" fill="white"/>
+<text x="620" y="453.0" font-family="Arial" font-size="18">Есть сеть?</text>
+<text x="102.5" y="595.0" font-family="Arial" font-size="20">Показать локальный итог</text>
+<text x="108.0" y="620.0" font-family="Arial" font-size="20">и ожидать подключения</text>
+<rect x="328" y="465.0" width="42.0" height="23" fill="white"/>
+<text x="330" y="483.0" font-family="Arial" font-size="18">[нет]</text>
+<rect x="568" y="550.0" width="35.0" height="23" fill="white"/>
+<text x="570" y="568.0" font-family="Arial" font-size="18">[да]</text>
+<rect x="23" y="680.0" width="182.0" height="23" fill="white"/>
+<text x="25" y="698.0" font-family="Arial" font-size="18">[сеть восстановлена]</text>
+<text x="453.5" y="897.5" font-family="Arial" font-size="20">Передать команду с operation_id и версией</text>
+<rect x="728" y="980.0" width="128.0" height="23" fill="white"/>
+<text x="730" y="998.0" font-family="Arial" font-size="18">Ответ сервера</text>
+<text x="88.0078125" y="1197.5" font-family="Arial" font-size="20">Пометить команду выполненной</text>
+<text x="735.5" y="1197.5" font-family="Arial" font-size="20">Показать конфликт версий</text>
+<rect x="323" y="1065.0" width="89.0" height="23" fill="white"/>
+<text x="325" y="1083.0" font-family="Arial" font-size="18">[200 / 201]</text>
+<rect x="858" y="1080.0" width="44.0" height="23" fill="white"/>
+<text x="860" y="1098.0" font-family="Arial" font-size="18">[409]</text>
+<rect x="888" y="800.0" width="103.0" height="23" fill="white"/>
+<text x="890" y="818.0" font-family="Arial" font-size="18">[нет ответа]</text>
+</svg>

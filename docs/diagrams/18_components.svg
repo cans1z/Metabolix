@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1280">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="25" y="20" width="440" height="120" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="434" y="32" width="21" height="29" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="429" y="36" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="429" y="50" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="635" y="20" width="440" height="120" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="1044" y="32" width="21" height="29" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="1039" y="36" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="1039" y="50" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="25" y="390" width="440" height="130" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="434" y="402" width="21" height="29" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="429" y="406" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="429" y="420" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="635" y="390" width="440" height="130" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="1044" y="402" width="21" height="29" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="1039" y="406" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="1039" y="420" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="330" y="730" width="440" height="130" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="739" y="742" width="21" height="29" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="734" y="746" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="734" y="760" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="25" y="1060" width="300" height="120" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="294" y="1072" width="21" height="29" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="289" y="1076" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="289" y="1090" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="400" y="1060" width="300" height="120" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="669" y="1072" width="21" height="29" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="664" y="1076" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="664" y="1090" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="775" y="1060" width="300" height="120" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="1044" y="1072" width="21" height="29" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="1039" y="1076" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="1039" y="1090" width="10" height="7" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="105" y="225" width="280" height="80" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="715" y="225" width="280" height="80" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="245.0,140 245.0,225" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="238.0,210.0 245.0,225 252.0,210.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="855.0,140 855.0,225" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="848.0,210.0 855.0,225 862.0,210.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="245.0,390 245.0,305" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polygon points="252.0,320.0 245.0,305 238.0,320.0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="377.0,390 377,350 855,350 855.0,305" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polygon points="862.0,320.0 855.0,305 848.0,320.0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="245.0,520 245,650 440,650 440.0,730" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="433.0,715.0 440.0,730 447.0,715.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="855.0,520 855,650 660,650 660.0,730" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="653.0,715.0 660.0,730 667.0,715.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="91.0,520 91,980 175,980 175.0,1060" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="168.0,1045.0 175.0,1060 182.0,1045.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="1075,455.0 1090,455 1090,1010 350,1010 350,1120 325,1120.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="340.0,1113.0 325,1120.0 340.0,1127.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="377.0,520 377,600 305,600 305,900 550,900 550.0,1060" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="543.0,1045.0 550.0,1060 557.0,1045.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="987.0,520 987,930 925,930 925.0,1060" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="918.0,1045.0 925.0,1060 932.0,1045.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="25,455.0 8,455 8,1230 750,1230 750,1120 775,1120.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="760.0,1127.0 775,1120.0 760.0,1113.0" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="179.5" y="75.0" font-family="Arial" font-size="21">«component»</text>
+<text x="144.0" y="101.0" font-family="Arial" font-size="21">Android-приложение</text>
+<text x="789.5" y="75.0" font-family="Arial" font-size="21">«component»</text>
+<text x="721.5" y="101.0" font-family="Arial" font-size="21">Веб-интерфейс просмотра</text>
+<text x="179.5" y="450.0" font-family="Arial" font-size="21">«component»</text>
+<text x="154.0234375" y="476.0" font-family="Arial" font-size="21">ASP.NET Core API</text>
+<text x="789.5" y="450.0" font-family="Arial" font-size="21">«component»</text>
+<text x="750.0" y="476.0" font-family="Arial" font-size="21">Фоновый обработчик</text>
+<text x="484.5" y="790.0" font-family="Arial" font-size="21">«component»</text>
+<text x="422.5078125" y="816.0" font-family="Arial" font-size="21">Общие правила и модели</text>
+<text x="109.5" y="1115.0" font-family="Arial" font-size="21">«component»</text>
+<text x="117.0" y="1141.0" font-family="Arial" font-size="21">PostgreSQL</text>
+<text x="484.5" y="1115.0" font-family="Arial" font-size="21">«component»</text>
+<text x="522.5" y="1141.0" font-family="Arial" font-size="21">Redis</text>
+<text x="859.5" y="1115.0" font-family="Arial" font-size="21">«component»</text>
+<text x="834.5" y="1141.0" font-family="Arial" font-size="21">Внешние сервисы</text>
+<text x="197.0" y="260.0" font-family="Arial" font-size="19">«interface»</text>
+<text x="208.0" y="284.0" font-family="Arial" font-size="19">IUserApi</text>
+<text x="807.0" y="260.0" font-family="Arial" font-size="19">«interface»</text>
+<text x="815.0" y="284.0" font-family="Arial" font-size="19">IReadApi</text>
+<rect x="18" y="920.0" width="146.0" height="23" fill="white"/>
+<text x="20" y="938.0" font-family="Arial" font-size="18">SQL / IRepository</text>
+<rect x="568" y="920.0" width="61.0" height="23" fill="white"/>
+<text x="570" y="938.0" font-family="Arial" font-size="18">ICache</text>
+<rect x="778" y="950.0" width="215.0" height="22" fill="white"/>
+<text x="780" y="967.0" font-family="Arial" font-size="17">IPushSender / IEmailSender</text>
+<rect x="318" y="1215.0" width="271.0" height="22" fill="white"/>
+<text x="320" y="1232.0" font-family="Arial" font-size="17">IIdentityProvider / IProductGateway</text>
+</svg>

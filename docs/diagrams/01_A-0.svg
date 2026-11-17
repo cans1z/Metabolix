@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="940">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="430" y="310" width="540" height="250" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="20,350 430,350" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="415.0,357.0 430,350 415.0,343.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="20,405 430,405" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="415.0,412.0 430,405 415.0,398.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="20,460 430,460" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="415.0,467.0 430,460 415.0,453.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="20,515 430,515" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="415.0,522.0 430,515 415.0,508.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="580,130 580,310" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="573.0,295.0 580,310 587.0,295.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="830,190 830,310" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="823.0,295.0 830,310 837.0,295.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="970,350 1380,350" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="1365.0,357.0 1380,350 1365.0,343.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="970,405 1380,405" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="1365.0,412.0 1380,405 1365.0,398.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="970,460 1380,460" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="1365.0,467.0 1380,460 1365.0,453.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="970,515 1380,515" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="1365.0,522.0 1380,515 1365.0,508.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="510,720 510,560" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="517.0,575.0 510,560 503.0,575.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="700,800 700,560" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="707.0,575.0 700,560 693.0,575.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="900,740 900,560" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="907.0,575.0 900,560 893.0,575.0" fill="black" stroke="black" stroke-width="1.5"/>
+<rect x="12" y="892" width="1376" height="36" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="135,892 135,928" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="573.5" y="430.0" font-family="Arial" font-size="22">Контролировать питание</text>
+<text x="553.5078125" y="457.0" font-family="Arial" font-size="22">и объяснять изменение веса</text>
+<text x="940.0" y="552.0" font-family="Arial" font-size="18">0</text>
+<rect x="23" y="320.0" width="134.96875" height="25" fill="white"/>
+<text x="25" y="340.0" font-family="Arial" font-size="20">Анкета и цель</text>
+<rect x="23" y="375.0" width="151.0" height="25" fill="white"/>
+<text x="25" y="395.0" font-family="Arial" font-size="20">Записи питания</text>
+<rect x="23" y="430.0" width="190.0" height="25" fill="white"/>
+<text x="25" y="450.0" font-family="Arial" font-size="20">Вес и самочувствие</text>
+<rect x="23" y="485.0" width="178.984375" height="25" fill="white"/>
+<text x="25" y="505.0" font-family="Arial" font-size="20">Запрос результата</text>
+<rect x="438" y="80.0" width="263.0" height="25" fill="white"/>
+<text x="440" y="100.0" font-family="Arial" font-size="20">Правила расчёта и анализа</text>
+<rect x="778" y="135.0" width="249.0" height="25" fill="white"/>
+<text x="780" y="155.0" font-family="Arial" font-size="20">Согласие и права доступа</text>
+<rect x="983" y="318.0" width="133.0" height="25" fill="white"/>
+<text x="985" y="338.0" font-family="Arial" font-size="20">План питания</text>
+<rect x="983" y="373.0" width="181.0" height="25" fill="white"/>
+<text x="985" y="393.0" font-family="Arial" font-size="20">Дневник и графики</text>
+<rect x="983" y="428.0" width="226.984375" height="25" fill="white"/>
+<text x="985" y="448.0" font-family="Arial" font-size="20">Проверка и объяснение</text>
+<rect x="983" y="483.0" width="207.0" height="25" fill="white"/>
+<text x="985" y="503.0" font-family="Arial" font-size="20">Отчёт и уведомление</text>
+<rect x="378" y="728.0" width="260.984375" height="25" fill="white"/>
+<text x="380" y="748.0" font-family="Arial" font-size="20">Пользователь и устройство</text>
+<rect x="568" y="808.0" width="247.0" height="25" fill="white"/>
+<text x="570" y="828.0" font-family="Arial" font-size="20">Приложение, сервер и БД</text>
+<rect x="768" y="748.0" width="172.0" height="25" fill="white"/>
+<text x="770" y="768.0" font-family="Arial" font-size="20">Внешние сервисы</text>
+<rect x="18" y="897.5" width="35.0" height="25" fill="white"/>
+<text x="20" y="917.5" font-family="Arial" font-size="20">A-0</text>
+<rect x="148" y="897.5" width="388.0" height="25" fill="white"/>
+<text x="150" y="917.5" font-family="Arial" font-size="20">Персонализированный контроль питания</text>
+</svg>

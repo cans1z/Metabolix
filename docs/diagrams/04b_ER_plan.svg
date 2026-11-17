@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1120">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="25" y="15" width="470" height="126" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="25,67 495,67" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="25,104 495,104" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="665" y="15" width="470" height="218" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="665,67 1135,67" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="665,104 1135,104" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="345" y="540" width="470" height="287" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="345,592 815,592" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="345,629 815,629" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="495,78.0 495,124.0 665,124.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="665" cy="124.0" r="5" fill="black"/>
+<polyline points="260.0,141 260,430 462.5,430 462.5,540" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="462.5" cy="540" r="5" fill="black"/>
+<polyline points="900.0,233 900,470 697.5,470 697.5,540" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="697.5" cy="540" r="5" fill="black"/>
+<polygon points="900.0,233 906.0,243.0 900.0,253.0 894.0,243.0" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="201.0" y="36.0" font-family="Arial" font-size="17" font-weight="bold">Пользователь</text>
+<text x="232.0" y="58.0" font-family="Arial" font-size="17" font-weight="bold">(users)</text>
+<text x="35" y="91.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="35" y="128.5" font-family="Arial" font-size="17">Поля раскрыты в другом фрагменте</text>
+<text x="846.5" y="36.0" font-family="Arial" font-size="17" font-weight="bold">Период цели</text>
+<text x="842.5" y="58.0" font-family="Arial" font-size="17" font-weight="bold">(goal_periods)</text>
+<text x="675" y="91.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="675" y="130.5" font-family="Arial" font-size="17">user_id: uuid (FK)</text>
+<text x="675" y="152.5" font-family="Arial" font-size="17">direction: text</text>
+<text x="675" y="174.5" font-family="Arial" font-size="17">start_date: date</text>
+<text x="675" y="196.5" font-family="Arial" font-size="17">ended_at: date NULL</text>
+<text x="675" y="218.5" font-family="Arial" font-size="17">basis: text</text>
+<text x="523.0" y="561.0" font-family="Arial" font-size="17" font-weight="bold">План питания</text>
+<text x="513.5" y="583.0" font-family="Arial" font-size="17" font-weight="bold">(nutrition_plans)</text>
+<text x="355" y="616.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="355" y="657.0" font-family="Arial" font-size="17">user_id: uuid (FK)</text>
+<text x="355" y="679.0" font-family="Arial" font-size="17">period_id: uuid (FK) NULL</text>
+<text x="355" y="701.0" font-family="Arial" font-size="17">payload_enc: bytea</text>
+<text x="355" y="723.0" font-family="Arial" font-size="17">status: text</text>
+<text x="355" y="745.0" font-family="Arial" font-size="17">confirmed_at: timestamptz NULL</text>
+<text x="355" y="767.0" font-family="Arial" font-size="17">start_local_date: date NULL</text>
+<text x="355" y="789.0" font-family="Arial" font-size="17">timezone: text</text>
+<text x="355" y="811.0" font-family="Arial" font-size="17">version: bigint</text>
+<rect x="505.0" y="90.0" width="52.0" height="22" fill="white"/>
+<text x="507.0" y="107.0" font-family="Arial" font-size="17">имеет</text>
+<rect x="230.0" y="257.5" width="52.0" height="22" fill="white"/>
+<text x="232.0" y="274.5" font-family="Arial" font-size="17">имеет</text>
+<rect x="847.0" y="323.5" width="98.0" height="22" fill="white"/>
+<text x="849.0" y="340.5" font-family="Arial" font-size="17">объединяет</text>
+<rect x="18" y="1049.0" width="568.0" height="21" fill="white"/>
+<text x="20" y="1065.0" font-family="Arial" font-size="16">Сплошная связь — идентифицирующая; пунктир — неидентифицирующая.</text>
+<rect x="18" y="1070.0" width="628.984375" height="21" fill="white"/>
+<text x="20" y="1086.0" font-family="Arial" font-size="16">Точка у потомка: 0..N; Z — 0..1; P — 1..N. Ромб у родителя — необязательная связь.</text>
+<rect x="18" y="1091.0" width="658.96875" height="21" fill="white"/>
+<text x="20" y="1107.0" font-family="Arial" font-size="16">UQ — ограничение уникальности с допустимым NULL; это не альтернативный ключ AK.</text>
+</svg>

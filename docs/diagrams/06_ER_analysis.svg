@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1480">
+<rect width="100%" height="100%" fill="white" />
+<rect x="25" y="15" width="470" height="126" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="25,67 495,67" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="25,104 495,104" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="665" y="15" width="470" height="126" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="665,67 1135,67" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="665,104 1135,104" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="25" y="420" width="470" height="310" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="25,472 495,472" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="25,509 495,509" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="665" y="420" width="470" height="218" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="665,472 1135,472" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="665,509 1135,509" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="345" y="1050" width="470" height="310" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="345,1102 815,1102" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="345,1139 815,1139" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="495,78.0 665,78.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="665" cy="78.0" r="5" fill="black" />
+<polyline points="260.0,141 260,300 142.5,300 142.5,420" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="142.5" cy="420" r="5" fill="black" />
+<polyline points="900.0,141 900,350 377.5,350 377.5,420" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="377.5" cy="420" r="5" fill="black" />
+<polyline points="665,529.0 665,575.0 495,575.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="495" cy="575.0" r="5" fill="black" />
+<polyline points="260.0,730 260,950 462.5,950 462.5,1050" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="462.5" cy="1050" r="5" fill="black" />
+<polyline points="900.0,638 900,990 697.5,990 697.5,1050" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="697.5" cy="1050" r="5" fill="black" />
+<polyline points="25,78.0 10,78.0 10,1205.0 345,1205.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="345" cy="1205.0" r="5" fill="black" />
+<text x="201.0" y="36.0" font-family="Arial" font-size="17" font-weight="bold">Пользователь</text>
+<text x="232.0" y="58.0" font-family="Arial" font-size="17" font-weight="bold">(users)</text>
+<text x="35" y="91.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="35" y="128.5" font-family="Arial" font-size="17">Поля раскрыты в другом фрагменте</text>
+<text x="843.0" y="36.0" font-family="Arial" font-size="17" font-weight="bold">План питания</text>
+<text x="833.5" y="58.0" font-family="Arial" font-size="17" font-weight="bold">(nutrition_plans)</text>
+<text x="675" y="91.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="675" y="128.5" font-family="Arial" font-size="17">Поля раскрыты в другом фрагменте</text>
+<text x="220.5" y="441.0" font-family="Arial" font-size="17" font-weight="bold">Проверка</text>
+<text x="206.0" y="463.0" font-family="Arial" font-size="17" font-weight="bold">(checkpoints)</text>
+<text x="35" y="496.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="35" y="537.5" font-family="Arial" font-size="17">plan_id: uuid (FK, AK1)</text>
+<text x="35" y="559.5" font-family="Arial" font-size="17">owner_id: uuid (FK)</text>
+<text x="35" y="581.5" font-family="Arial" font-size="17">rule_version_id: uuid (FK)</text>
+<text x="35" y="603.5" font-family="Arial" font-size="17">due_date: date (AK1)</text>
+<text x="35" y="625.5" font-family="Arial" font-size="17">scheduled_at: timestamptz</text>
+<text x="35" y="647.5" font-family="Arial" font-size="17">status: text</text>
+<text x="35" y="669.5" font-family="Arial" font-size="17">result_enc: bytea NULL</text>
+<text x="35" y="691.5" font-family="Arial" font-size="17">data_revision: bigint NULL</text>
+<text x="35" y="713.5" font-family="Arial" font-size="17">evaluated_at: timestamptz NULL</text>
+<text x="864.5" y="441.0" font-family="Arial" font-size="17" font-weight="bold">Правила</text>
+<text x="840.0" y="463.0" font-family="Arial" font-size="17" font-weight="bold">(rule_versions)</text>
+<text x="675" y="496.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="675" y="535.5" font-family="Arial" font-size="17">version: text (AK1)</text>
+<text x="675" y="557.5" font-family="Arial" font-size="17">parameters: jsonb</text>
+<text x="675" y="579.5" font-family="Arial" font-size="17">templates: jsonb</text>
+<text x="675" y="601.5" font-family="Arial" font-size="17">checksum: text</text>
+<text x="675" y="623.5" font-family="Arial" font-size="17">published_at: timestamptz</text>
+<text x="528.5" y="1071.0" font-family="Arial" font-size="17" font-weight="bold">Объяснение</text>
+<text x="523.5" y="1093.0" font-family="Arial" font-size="17" font-weight="bold">(explanations)</text>
+<text x="355" y="1126.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<rect x="550.0" y="50.0" width="52.0" height="22" fill="white" />
+<text x="552.0" y="67.0" font-family="Arial" font-size="17">имеет</text>
+<rect x="230.0" y="192.5" width="52.0" height="22" fill="white" />
+<text x="232.0" y="209.5" font-family="Arial" font-size="17">имеет</text>
+<rect x="845.0" y="217.5" width="102.0" height="22" fill="white" />
+<text x="847.0" y="234.5" font-family="Arial" font-size="17">проверяется</text>
+<rect x="552.0" y="541.0" width="95.0" height="22" fill="white" />
+<text x="554.0" y="558.0" font-family="Arial" font-size="17">определяет</text>
+<rect x="188.5" y="812.0" width="135.984375" height="22" fill="white" />
+<text x="190.5" y="829.0" font-family="Arial" font-size="17">имеет результат</text>
+<rect x="848.5" y="786.0" width="95.0" height="22" fill="white" />
+<text x="850.5" y="803.0" font-family="Arial" font-size="17">определяет</text>
+<rect x="20.0" y="855.9" width="52.0" height="22" fill="white" />
+<text x="22.0" y="872.9" font-family="Arial" font-size="17">имеет</text>
+<rect x="18" y="1409.0" width="568.0" height="21" fill="white" />
+<text x="20" y="1425.0" font-family="Arial" font-size="16">Сплошная связь — идентифицирующая; пунктир — неидентифицирующая.</text>
+<rect x="18" y="1430.0" width="628.984375" height="21" fill="white" />
+<text x="20" y="1446.0" font-family="Arial" font-size="16">Точка у потомка: 0..N; Z — 0..1; P — 1..N. Ромб у родителя — необязательная связь.</text>
+<rect x="18" y="1451.0" width="658.96875" height="21" fill="white" />
+<text x="20" y="1467.0" font-family="Arial" font-size="16">UQ — ограничение уникальности с допустимым NULL; это не альтернативный ключ AK.</text>
+<text x="355.0" y="1172.0" font-family="Arial" font-size="17.0" text-anchor="start">checkpoint_id: uuid (FK, AK1)</text><text x="355.0" y="1193.0" font-family="Arial" font-size="17.0" text-anchor="start">owner_id: uuid (FK)</text><text x="355.0" y="1214.0" font-family="Arial" font-size="17.0" text-anchor="start">rule_version_id: uuid (FK)</text><text x="355.0" y="1235.0" font-family="Arial" font-size="17.0" text-anchor="start">revision: int (AK1)</text><text x="355.0" y="1256.0" font-family="Arial" font-size="17.0" text-anchor="start">category_enc: bytea</text><text x="355.0" y="1277.0" font-family="Arial" font-size="17.0" text-anchor="start">text_enc: bytea</text><text x="355.0" y="1298.0" font-family="Arial" font-size="17.0" text-anchor="start">evidence_enc: bytea</text><text x="355.0" y="1319.0" font-family="Arial" font-size="17.0" text-anchor="start">superseded_at: timestamptz NULL</text><text x="355.0" y="1340.0" font-family="Arial" font-size="17.0" text-anchor="start">created_at: timestamptz</text></svg>

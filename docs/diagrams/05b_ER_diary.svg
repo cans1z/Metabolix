@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1410">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="25" y="15" width="470" height="126" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="25,67 495,67" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="25,104 495,104" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="665" y="15" width="470" height="218" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="665,67 1135,67" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="665,104 1135,104" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="25" y="490" width="470" height="126" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="25,542 495,542" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="25,579 495,579" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="665" y="490" width="470" height="126" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="665,542 1135,542" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="665,579 1135,579" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="345" y="900" width="470" height="310" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="345,952 815,952" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="345,989 815,989" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="495,78.0 495,124.0 665,124.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="665" cy="124.0" r="5" fill="black"/>
+<polyline points="25,78.0 10,78.0 10,1055.0 345,1055.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="345" cy="1055.0" r="5" fill="black"/>
+<polyline points="1135,124.0 1150,124.0 1150,1055.0 815,1055.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="815" cy="1055.0" r="5" fill="black"/>
+<polyline points="260.0,616 260,780 462.5,780 462.5,900" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="462.5" cy="900" r="5" fill="black"/>
+<polygon points="260.0,616 266.0,626.0 260.0,636.0 254.0,626.0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="900.0,616 900,820 697.5,820 697.5,900" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="697.5" cy="900" r="5" fill="black"/>
+<polygon points="900.0,616 906.0,626.0 900.0,636.0 894.0,626.0" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="201.0" y="36.0" font-family="Arial" font-size="17" font-weight="bold">Пользователь</text>
+<text x="232.0" y="58.0" font-family="Arial" font-size="17" font-weight="bold">(users)</text>
+<text x="35" y="91.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="35" y="128.5" font-family="Arial" font-size="17">Поля раскрыты в другом фрагменте</text>
+<text x="848.5" y="36.0" font-family="Arial" font-size="17" font-weight="bold">Приём пищи</text>
+<text x="870.5" y="58.0" font-family="Arial" font-size="17" font-weight="bold">(meals)</text>
+<text x="675" y="91.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="675" y="130.5" font-family="Arial" font-size="17">owner_id: uuid (FK, AK1)</text>
+<text x="675" y="152.5" font-family="Arial" font-size="17">local_date: date (AK1)</text>
+<text x="675" y="174.5" font-family="Arial" font-size="17">meal_type: text (AK1)</text>
+<text x="675" y="196.5" font-family="Arial" font-size="17">version: bigint</text>
+<text x="675" y="218.5" font-family="Arial" font-size="17">deleted_at: timestamptz NULL</text>
+<text x="225.5" y="511.0" font-family="Arial" font-size="17" font-weight="bold">Продукт</text>
+<text x="218.5" y="533.0" font-family="Arial" font-size="17" font-weight="bold">(products)</text>
+<text x="35" y="566.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="35" y="603.5" font-family="Arial" font-size="17">Поля раскрыты в другом фрагменте</text>
+<text x="870.5" y="511.0" font-family="Arial" font-size="17" font-weight="bold">Блюдо</text>
+<text x="865.0" y="533.0" font-family="Arial" font-size="17" font-weight="bold">(recipes)</text>
+<text x="675" y="566.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="675" y="603.5" font-family="Arial" font-size="17">Поля раскрыты в другом фрагменте</text>
+<text x="549.0" y="921.0" font-family="Arial" font-size="17" font-weight="bold">Порция</text>
+<text x="524.0" y="943.0" font-family="Arial" font-size="17" font-weight="bold">(food_entries)</text>
+<text x="355" y="976.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="355" y="1017.5" font-family="Arial" font-size="17">meal_id: uuid (FK)</text>
+<text x="355" y="1039.5" font-family="Arial" font-size="17">owner_id: uuid (FK)</text>
+<text x="355" y="1061.5" font-family="Arial" font-size="17">product_id: uuid (FK) NULL</text>
+<text x="355" y="1083.5" font-family="Arial" font-size="17">recipe_id: uuid (FK) NULL</text>
+<text x="355" y="1105.5" font-family="Arial" font-size="17">amount: decimal(10,3)</text>
+<text x="355" y="1127.5" font-family="Arial" font-size="17">unit: text</text>
+<text x="355" y="1149.5" font-family="Arial" font-size="17">nutrients_snapshot: jsonb</text>
+<text x="355" y="1171.5" font-family="Arial" font-size="17">version: bigint</text>
+<text x="355" y="1193.5" font-family="Arial" font-size="17">deleted_at: timestamptz NULL</text>
+<rect x="505.0" y="90.0" width="52.0" height="22" fill="white"/>
+<text x="507.0" y="107.0" font-family="Arial" font-size="17">имеет</text>
+<rect x="20.0" y="360.09999999999997" width="52.0" height="22" fill="white"/>
+<text x="22.0" y="377.09999999999997" font-family="Arial" font-size="17">имеет</text>
+<rect x="1053.0" y="392.3" width="79.0" height="22" fill="white"/>
+<text x="1055.0" y="409.3" font-family="Arial" font-size="17">содержит</text>
+<rect x="200.0" y="670.0" width="112.0" height="22" fill="white"/>
+<text x="202.0" y="687.0" font-family="Arial" font-size="17">используется</text>
+<rect x="840.0" y="690.0" width="112.0" height="22" fill="white"/>
+<text x="842.0" y="707.0" font-family="Arial" font-size="17">используется</text>
+<rect x="23" y="1290.0" width="581.0" height="22" fill="white"/>
+<text x="25" y="1307.0" font-family="Arial" font-size="17">Ограничение XOR: заполнено ровно одно из полей product_id и recipe_id.</text>
+<rect x="18" y="1339.0" width="568.0" height="21" fill="white"/>
+<text x="20" y="1355.0" font-family="Arial" font-size="16">Сплошная связь — идентифицирующая; пунктир — неидентифицирующая.</text>
+<rect x="18" y="1360.0" width="628.984375" height="21" fill="white"/>
+<text x="20" y="1376.0" font-family="Arial" font-size="16">Точка у потомка: 0..N; Z — 0..1; P — 1..N. Ромб у родителя — необязательная связь.</text>
+<rect x="18" y="1381.0" width="658.96875" height="21" fill="white"/>
+<text x="20" y="1397.0" font-family="Arial" font-size="16">UQ — ограничение уникальности с допустимым NULL; это не альтернативный ключ AK.</text>
+</svg>

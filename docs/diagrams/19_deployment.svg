@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1470">
+<rect width="100%" height="100%" fill="white"/>
+<polygon points="20,35 35,20 480,20 480,235 465,250 20,250" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="20,35 465,35 480,20" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="465,35 465,250" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="65" y="120" width="355" height="95" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polygon points="393,129 403,129 410,136 410,151 393,151" fill="white" stroke="black" stroke-width="1.5"/>
+<polygon points="630,35 645,20 1080,20 1080,235 1065,250 630,250" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="630,35 1065,35 1080,20" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="1065,35 1065,250" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="670,130 680,120 1025,120 1025,205 1015,215 670,215" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="670,130 1015,130 1025,120" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="1015,130 1015,215" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="20,405 35,390 1080,390 1080,1195 1065,1210 20,1210" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="20,405 1065,405 1080,390" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="1065,405 1065,1210" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="65,525 80,510 1035,510 1035,1140 1020,1155 65,1155" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="65,525 1020,525 1035,510" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="1020,525 1020,1155" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="355,630 365,620 725,620 725,715 715,725 355,725" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="355,630 715,630 725,620" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="715,630 715,725" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="110,825 120,815 500,815 500,905 490,915 110,915" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="110,825 490,825 500,815" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="490,825 490,915" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="610,825 620,815 980,815 980,905 970,915 610,915" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="610,825 970,825 980,815" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="970,825 970,915" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="110,1020 120,1010 500,1010 500,1100 490,1110 110,1110" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="110,1020 490,1020 500,1010" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="490,1020 490,1110" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="610,1020 620,1010 980,1010 980,1100 970,1110 610,1110" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="610,1020 970,1020 980,1010" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="970,1020 970,1110" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="20,1305 35,1290 480,1290 480,1425 465,1440 20,1440" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="20,1305 465,1305 480,1290" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="465,1305 465,1440" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="630,1305 645,1290 1080,1290 1080,1425 1065,1440 630,1440" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="630,1305 1065,1305 1080,1290" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="1065,1305 1065,1440" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="250.0,250 250,320 50,320 50,656.75 355,656.75" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="855.0,250 855,350 1050,350 1050,693.5 725,693.5" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="447.5,725 447.5,770 305,770 305.0,815" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="305.0,915 305.0,1010" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="795.0,915 795,970 402.5,970 402.5,1010" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="461.0,915 461,950 906.0,950 906.0,1010" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="305.0,1110 305,1250 250,1250 250.0,1290" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="980,865.0 1050,865 1050,1240 855,1240 855.0,1290" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="500,865 540,865 540,1180 1050,1180" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="197.0" y="69.0" font-family="Arial" font-size="21" font-weight="bold">«device»</text>
+<text x="128.015625" y="95.0" font-family="Arial" font-size="21" font-weight="bold">Телефон Android 9.0+</text>
+<text x="205.5" y="151.0" font-family="Arial" font-size="18">«artifact»</text>
+<text x="187.0" y="174.0" font-family="Arial" font-size="18">Metabolix.apk</text>
+<text x="149.5" y="197.0" font-family="Arial" font-size="18">Локальная база Room</text>
+<text x="802.0" y="69.0" font-family="Arial" font-size="21" font-weight="bold">«device»</text>
+<text x="710.5" y="95.0" font-family="Arial" font-size="21" font-weight="bold">Компьютер пользователя</text>
+<text x="743.5" y="166.0" font-family="Arial" font-size="18">«executionEnvironment»</text>
+<text x="808.0" y="189.0" font-family="Arial" font-size="18">Браузер</text>
+<text x="497.0" y="439.0" font-family="Arial" font-size="21" font-weight="bold">«device»</text>
+<text x="435.5" y="465.0" font-family="Arial" font-size="21" font-weight="bold">Сервер приложения</text>
+<text x="415.5" y="559.0" font-family="Arial" font-size="21" font-weight="bold">«executionEnvironment»</text>
+<text x="331.0" y="585.0" font-family="Arial" font-size="21" font-weight="bold">Docker — внутренняя сеть контейнеров</text>
+<text x="436.0" y="671.0" font-family="Arial" font-size="18">«executionEnvironment»</text>
+<text x="465.5" y="694.0" font-family="Arial" font-size="18">Контейнер Nginx</text>
+<text x="201.0" y="852.0" font-family="Arial" font-size="18">«executionEnvironment»</text>
+<text x="239.0078125" y="875.0" font-family="Arial" font-size="18">Контейнер API</text>
+<text x="180.015625" y="898.0" font-family="Arial" font-size="18">ASP.NET Core / Razor Pages</text>
+<text x="691.0" y="852.0" font-family="Arial" font-size="18">«executionEnvironment»</text>
+<text x="714.5" y="875.0" font-family="Arial" font-size="18">Контейнер Worker</text>
+<text x="697.0" y="898.0" font-family="Arial" font-size="18">Фоновые задачи .NET</text>
+<text x="201.0" y="1047.0" font-family="Arial" font-size="18">«executionEnvironment»</text>
+<text x="204.5" y="1070.0" font-family="Arial" font-size="18">Контейнер PostgreSQL</text>
+<text x="197.0" y="1093.0" font-family="Arial" font-size="18">Постоянный том данных</text>
+<text x="691.0" y="1058.5" font-family="Arial" font-size="18">«executionEnvironment»</text>
+<text x="720.5" y="1081.5" font-family="Arial" font-size="18">Контейнер Redis</text>
+<text x="197.0" y="1339.0" font-family="Arial" font-size="21" font-weight="bold">«device»</text>
+<text x="86.5" y="1365.0" font-family="Arial" font-size="21" font-weight="bold">Хранилище резервных копий</text>
+<text x="802.0" y="1339.0" font-family="Arial" font-size="21" font-weight="bold">«device»</text>
+<text x="750.0" y="1365.0" font-family="Arial" font-size="21" font-weight="bold">Внешние сервисы</text>
+<rect x="258" y="280.0" width="68.0" height="25" fill="white"/>
+<text x="260" y="300.0" font-family="Arial" font-size="20">HTTPS</text>
+<rect x="648" y="310.0" width="68.0" height="25" fill="white"/>
+<text x="650" y="330.0" font-family="Arial" font-size="20">HTTPS</text>
+<rect x="113" y="740.0" width="189.0" height="24" fill="white"/>
+<text x="115" y="759.0" font-family="Arial" font-size="19">HTTP внутри Docker</text>
+<rect x="313" y="945.0" width="43.0" height="24" fill="white"/>
+<text x="315" y="964.0" font-family="Arial" font-size="19">SQL</text>
+<rect x="578" y="920.0" width="180.0" height="24" fill="white"/>
+<text x="580" y="939.0" font-family="Arial" font-size="19">Обращение к Redis</text>
+<rect x="28" y="1220.0" width="227.984375" height="25" fill="white"/>
+<text x="30" y="1240.0" font-family="Arial" font-size="20">Резервное копирование</text>
+<rect x="728" y="1215.0" width="68.0" height="25" fill="white"/>
+<text x="730" y="1235.0" font-family="Arial" font-size="20">HTTPS</text>
+</svg>

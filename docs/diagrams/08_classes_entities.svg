@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1380">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="25" y="30" width="440" height="200" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="25,82 465,82" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="25,168 465,168" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="635" y="30" width="440" height="152" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="635,82 1075,82" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="635,144 1075,144" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="25" y="500" width="440" height="176" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="25,552 465,552" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="25,614 465,614" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="635" y="500" width="440" height="152" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="635,552 1075,552" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="635,614 1075,614" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="25" y="1000" width="440" height="152" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="25,1052 465,1052" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="25,1114 465,1114" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="635" y="1000" width="440" height="192" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="635,1052 1075,1052" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="635,1162 1075,1162" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="465,130.0 465,106.0 635,106.0" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="855.0,182 855.0,500" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="245.0,676 245.0,1000" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="245.0,676 251.0,686.0 245.0,696.0 239.0,686.0" fill="black" stroke="black" stroke-width="1.5"/>
+<polyline points="465,1076.0 465,1096.0 635,1096.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<polyline points="620.0,1103.0 635,1096.0 620.0,1089.0" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="211.0" y="51.0" font-family="Arial" font-size="18" font-weight="bold">«entity»</text>
+<text x="188.5" y="74.0" font-family="Arial" font-size="18" font-weight="bold">NutritionPlan</text>
+<text x="35" y="108.5" font-family="Arial" font-size="18">-id: UUID</text>
+<text x="35" y="131.5" font-family="Arial" font-size="18">-targetRate: Decimal</text>
+<text x="35" y="154.5" font-family="Arial" font-size="18">-status: PlanStatus</text>
+<text x="35" y="194.0" font-family="Arial" font-size="18">+confirm(): void</text>
+<text x="35" y="217.0" font-family="Arial" font-size="18">+supersede(): void</text>
+<text x="821.0" y="51.0" font-family="Arial" font-size="18" font-weight="bold">«entity»</text>
+<text x="806.0" y="74.0" font-family="Arial" font-size="18" font-weight="bold">Checkpoint</text>
+<text x="645" y="108.0" font-family="Arial" font-size="18">-dueDate: Date</text>
+<text x="645" y="131.0" font-family="Arial" font-size="18">-status: CheckpointStatus</text>
+<text x="645" y="169.5" font-family="Arial" font-size="18">+complete(r: TrendResult): void</text>
+<text x="211.0" y="521.0" font-family="Arial" font-size="18" font-weight="bold">«entity»</text>
+<text x="225.0" y="544.0" font-family="Arial" font-size="18" font-weight="bold">Meal</text>
+<text x="35" y="578.0" font-family="Arial" font-size="18">-date: Date</text>
+<text x="35" y="601.0" font-family="Arial" font-size="18">-type: MealType</text>
+<text x="35" y="640.0" font-family="Arial" font-size="18">+add(e: FoodEntry): void</text>
+<text x="35" y="663.0" font-family="Arial" font-size="18">+total(): Nutrients</text>
+<text x="821.0" y="521.0" font-family="Arial" font-size="18" font-weight="bold">«entity»</text>
+<text x="804.0" y="544.0" font-family="Arial" font-size="18" font-weight="bold">Explanation</text>
+<text x="645" y="578.0" font-family="Arial" font-size="18">-revision: Integer</text>
+<text x="645" y="601.0" font-family="Arial" font-size="18">-category: Category</text>
+<text x="645" y="639.5" font-family="Arial" font-size="18">+supersede(): void</text>
+<text x="211.0" y="1021.0" font-family="Arial" font-size="18" font-weight="bold">«entity»</text>
+<text x="200.0" y="1044.0" font-family="Arial" font-size="18" font-weight="bold">FoodEntry</text>
+<text x="35" y="1078.0" font-family="Arial" font-size="18">-amount: Decimal</text>
+<text x="35" y="1101.0" font-family="Arial" font-size="18">-snapshot: Nutrients</text>
+<text x="35" y="1139.5" font-family="Arial" font-size="18">+calculate(): Nutrients</text>
+<text x="805.5078125" y="1021.0" font-family="Arial" font-size="18" font-weight="bold">«dataType»</text>
+<text x="815.5" y="1044.0" font-family="Arial" font-size="18" font-weight="bold">Nutrients</text>
+<text x="645" y="1079.0" font-family="Arial" font-size="18">+kcal: Decimal</text>
+<text x="645" y="1102.0" font-family="Arial" font-size="18">+protein: Decimal</text>
+<text x="645" y="1125.0" font-family="Arial" font-size="18">+fat: Decimal</text>
+<text x="645" y="1148.0" font-family="Arial" font-size="18">+carbs: Decimal</text>
+<rect x="473" y="100.0" width="14.0" height="23" fill="white"/>
+<text x="475" y="118.0" font-family="Arial" font-size="18">1</text>
+<rect x="568" y="100.0" width="31.0" height="23" fill="white"/>
+<text x="570" y="118.0" font-family="Arial" font-size="18">0..*</text>
+<rect x="863.0" y="189.0" width="14.0" height="23" fill="white"/>
+<text x="865.0" y="207.0" font-family="Arial" font-size="18">1</text>
+<rect x="863.0" y="471.0" width="31.0" height="23" fill="white"/>
+<text x="865.0" y="489.0" font-family="Arial" font-size="18">0..*</text>
+<rect x="253.0" y="683.0" width="14.0" height="23" fill="white"/>
+<text x="255.0" y="701.0" font-family="Arial" font-size="18">1</text>
+<rect x="253.0" y="971.0" width="31.0" height="23" fill="white"/>
+<text x="255.0" y="989.0" font-family="Arial" font-size="18">0..*</text>
+<rect x="473" y="1100.0" width="53.0" height="23" fill="white"/>
+<text x="475" y="1118.0" font-family="Arial" font-size="18">«use»</text>
+<rect x="28" y="1310.0" width="657.0" height="23" fill="white"/>
+<text x="30" y="1328.0" font-family="Arial" font-size="18">Другие классы-сущности соответствуют информационной модели раздела 2.</text>
+</svg>

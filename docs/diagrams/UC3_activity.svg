@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2050">
+<rect width="100%" height="100%" fill="white" />
+<ellipse cx="580.0" cy="27.0" rx="12.0" ry="12.0" fill="black" stroke="black" stroke-width="1.5" />
+<rect x="330" y="75" width="500" height="75" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,39 580.0,75" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,60.0 580.0,75 587.0,60.0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="580.0,195 625,225.0 580.0,255 535,225.0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,150 580.0,195" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,180.0 580.0,195 587.0,180.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="330" y="295" width="500" height="80" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,255 580.0,295" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,280.0 580.0,295 587.0,280.0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="580.0,430 625,460.0 580.0,490 535,460.0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,375 580.0,430" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,415.0 580.0,430 587.0,415.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="35" y="420" width="330" height="85" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="535,460.0 535,462.5 365,462.5" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="380.0,455.5 365,462.5 380.0,469.5" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="200.0,420 200,225 535,225.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="520.0,232.0 535,225.0 520.0,218.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="330" y="555" width="500" height="80" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,490 580.0,555" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,540.0 580.0,555 587.0,540.0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="580.0,690 625,720.0 580.0,750 535,720.0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,635 580.0,690" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,675.0 580.0,690 587.0,675.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="795" y="680" width="370" height="95" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="625,720.0 625,727.5 795,727.5" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="780.0,734.5 795,727.5 780.0,720.5" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="580.0,820 625,850.0 580.0,880 535,850.0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,750 580.0,820" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,805.0 580.0,820 587.0,805.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="980.0,775 980,850 625,850.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="640.0,843.0 625,850.0 640.0,857.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="330" y="925" width="500" height="80" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,880 580.0,925" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,910.0 580.0,925 587.0,910.0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="580.0,1060 625,1090.0 580.0,1120 535,1090.0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,1005 580.0,1060" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,1045.0 580.0,1060 587.0,1045.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="210" y="1210" width="360" height="90" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<rect x="760" y="1210" width="400" height="90" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="535,1090.0 390,1090 390.0,1210" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="383.0,1195.0 390.0,1210 397.0,1195.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="625,1090.0 960,1090 960.0,1210" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="953.0,1195.0 960.0,1210 967.0,1195.0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="580.0,1360 625,1390.0 580.0,1420 535,1390.0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="390.0,1300 390,1390 535,1390.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="520.0,1397.0 535,1390.0 520.0,1383.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="960.0,1300 960,1390 625,1390.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="640.0,1383.0 625,1390.0 640.0,1397.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="330" y="1460" width="500" height="105" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,1420 580.0,1460" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,1445.0 580.0,1460 587.0,1445.0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="580.0,1630 625,1660.0 580.0,1690 535,1660.0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,1565 580.0,1630" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,1615.0 580.0,1630 587.0,1615.0" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="760" y="1615" width="400" height="110" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="625,1660.0 625,1670.0 760,1670.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="745.0,1677.0 760,1670.0 745.0,1663.0" fill="none" stroke="black" stroke-width="1.5" />
+<polygon points="580.0,1840 625,1870.0 580.0,1900 535,1870.0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,1690 580.0,1840" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,1825.0 580.0,1840 587.0,1825.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="960.0,1725 960,1870 625,1870.0" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="640.0,1863.0 625,1870.0 640.0,1877.0" fill="none" stroke="black" stroke-width="1.5" />
+<ellipse cx="580.0" cy="1974.0" rx="14.0" ry="14.0" fill="white" stroke="black" stroke-width="1.5" />
+<ellipse cx="580.0" cy="1974.0" rx="8.0" ry="8.0" fill="black" stroke="black" stroke-width="1.5" />
+<polyline points="580.0,1900 580.0,1960" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="573.0,1945.0 580.0,1960 587.0,1945.0" fill="none" stroke="black" stroke-width="1.5" />
+<text x="439.0078125" y="120.5" font-family="Arial" font-size="21">Открыть раздел «Прогресс»</text>
+<text x="434.0" y="343.0" font-family="Arial" font-size="21">Ввести вес и дату измерения</text>
+<rect x="668" y="438.0" width="202.0" height="26" fill="white" />
+<text x="670" y="459.0" font-family="Arial" font-size="21">Данные корректны?</text>
+<text x="115.0" y="457.5" font-family="Arial" font-size="21">Показать ошибку</text>
+<text x="64.5" y="483.5" font-family="Arial" font-size="21">и предложить исправление</text>
+<rect x="393" y="425.0" width="46.984375" height="25" fill="white" />
+<text x="395" y="445.0" font-family="Arial" font-size="20">[нет]</text>
+<rect x="598" y="505.0" width="39.0" height="25" fill="white" />
+<text x="600" y="525.0" font-family="Arial" font-size="20">[да]</text>
+<rect x="28" y="704.0" width="262.0" height="26" fill="white" />
+<rect x="28" y="730.0" width="218.0" height="26" fill="white" />
+<text x="891.0078125" y="722.5" font-family="Arial" font-size="21">Добавить отметку</text>
+<text x="844.5" y="748.5" font-family="Arial" font-size="21">о возможной ошибке ввода</text>
+<rect x="663" y="680.0" width="39.0" height="25" fill="white" />
+<text x="665" y="700.0" font-family="Arial" font-size="20">[да]</text>
+<rect x="598" y="775.0" width="46.984375" height="25" fill="white" />
+<text x="600" y="795.0" font-family="Arial" font-size="20">[нет]</text>
+<text x="386.5" y="973.0" font-family="Arial" font-size="21">Получить замеры за последние 7 дней</text>
+<rect x="28" y="1074.0" width="214.0" height="26" fill="white" />
+<text x="30" y="1095.0" font-family="Arial" font-size="21">Есть замеры хотя бы</text>
+<rect x="28" y="1100.0" width="197.0" height="26" fill="white" />
+<text x="30" y="1121.0" font-family="Arial" font-size="21">за три разных дня?</text>
+<text x="268.5078125" y="1250.0" font-family="Arial" font-size="21">Рассчитать средний вес</text>
+<text x="343.0" y="1276.0" font-family="Arial" font-size="21">за 7 дней</text>
+<text x="832.0" y="1250.0" font-family="Arial" font-size="21">Показать: «Недостаточно</text>
+<text x="848.0" y="1276.0" font-family="Arial" font-size="21">данных для среднего»</text>
+<rect x="418" y="1120.0" width="39.0" height="25" fill="white" />
+<text x="420" y="1140.0" font-family="Arial" font-size="20">[да]</text>
+<rect x="733" y="1120.0" width="46.984375" height="25" fill="white" />
+<text x="735" y="1140.0" font-family="Arial" font-size="20">[нет]</text>
+<text x="411.5" y="1494.5" font-family="Arial" font-size="21">Обновить график замеров и ИМТ;</text>
+<text x="457.5" y="1520.5" font-family="Arial" font-size="21">показать сводку питания</text>
+<text x="471.0" y="1546.5" font-family="Arial" font-size="21">за выбранный период</text>
+<rect x="28" y="1644.0" width="252.96875" height="26" fill="white" />
+<text x="30" y="1665.0" font-family="Arial" font-size="21">Пользователь открывает</text>
+<rect x="28" y="1670.0" width="182.0" height="26" fill="white" />
+<text x="30" y="1691.0" font-family="Arial" font-size="21">«Самочувствие»?</text>
+<text x="836.0" y="1652.0" font-family="Arial" font-size="21">Выбрать дату и факторы</text>
+<text x="791.5078125" y="1678.0" font-family="Arial" font-size="21">или «Ничего из перечисленного»;</text>
+<text x="872.0" y="1704.0" font-family="Arial" font-size="21">сохранить запись</text>
+<rect x="648" y="1625.0" width="39.0" height="25" fill="white" />
+<text x="650" y="1645.0" font-family="Arial" font-size="20">[да]</text>
+<rect x="598" y="1745.0" width="46.984375" height="25" fill="white" />
+<text x="600" y="1765.0" font-family="Arial" font-size="20">[нет]</text>
+<text x="580.0" y="591.0" font-family="Arial" font-size="21.0" text-anchor="middle">Сохранить замер локально;</text><text x="580.0" y="616.0" font-family="Arial" font-size="21.0" text-anchor="middle">поставить в очередь синхронизации</text><text x="30.0" y="726.0" font-family="Arial" font-size="21.0" text-anchor="start">Есть замер предыдущего дня</text><text x="30.0" y="751.0" font-family="Arial" font-size="21.0" text-anchor="start">и изменение больше 5 %?</text></svg>

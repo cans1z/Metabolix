@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1460">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="345" y="15" width="470" height="126" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="345,67 815,67" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="345,104 815,104" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="25" y="300" width="470" height="333" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="25,352 495,352" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="25,389 495,389" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="665" y="300" width="470" height="333" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="665,352 1135,352" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="665,389 1135,389" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="25" y="1020" width="470" height="264" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="25,1072 495,1072" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="25,1109 495,1109" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="665" y="1020" width="470" height="218" rx="0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="665,1072 1135,1072" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="665,1109 1135,1109" fill="none" stroke="black" stroke-width="1.5"/>
+<polyline points="462.5,141 462.5,220 260,220 260.0,300" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="260.0" cy="300" r="5" fill="black"/>
+<polygon points="462.5,141 468.5,151.0 462.5,161.0 456.5,151.0" fill="white" stroke="black" stroke-width="1.5"/>
+<polyline points="697.5,141 697.5,250 900,250 900.0,300" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="900.0" cy="300" r="5" fill="black"/>
+<polyline points="533.0,141 533,930 560,930 560,1152.0 495,1152.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="495" cy="1152.0" r="5" fill="black"/>
+<polyline points="627.0,141 627,950 600,950 600,1129.0 665,1129.0" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6"/>
+<circle cx="665" cy="1129.0" r="5" fill="black"/>
+<polygon points="627.0,141 633.0,151.0 627.0,161.0 621.0,151.0" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="521.0" y="36.0" font-family="Arial" font-size="17" font-weight="bold">Пользователь</text>
+<text x="552.0" y="58.0" font-family="Arial" font-size="17" font-weight="bold">(users)</text>
+<text x="355" y="91.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="355" y="128.5" font-family="Arial" font-size="17">Поля раскрыты в другом фрагменте</text>
+<text x="225.5" y="321.0" font-family="Arial" font-size="17" font-weight="bold">Задание</text>
+<text x="237.0" y="343.0" font-family="Arial" font-size="17" font-weight="bold">(jobs)</text>
+<text x="35" y="376.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="35" y="418.0" font-family="Arial" font-size="17">owner_id: uuid (FK) NULL</text>
+<text x="35" y="440.0" font-family="Arial" font-size="17">kind: text</text>
+<text x="35" y="462.0" font-family="Arial" font-size="17">dedup_key: text (AK1)</text>
+<text x="35" y="484.0" font-family="Arial" font-size="17">payload: jsonb</text>
+<text x="35" y="506.0" font-family="Arial" font-size="17">status: text</text>
+<text x="35" y="528.0" font-family="Arial" font-size="17">available_at: timestamptz</text>
+<text x="35" y="550.0" font-family="Arial" font-size="17">lease_until: timestamptz NULL</text>
+<text x="35" y="572.0" font-family="Arial" font-size="17">lease_token: uuid NULL</text>
+<text x="35" y="594.0" font-family="Arial" font-size="17">attempts: int</text>
+<text x="35" y="616.0" font-family="Arial" font-size="17">last_error_code: text NULL</text>
+<text x="862.5" y="321.0" font-family="Arial" font-size="17" font-weight="bold">Событие</text>
+<text x="836.0" y="343.0" font-family="Arial" font-size="17" font-weight="bold">(outbox_events)</text>
+<text x="675" y="376.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="675" y="418.0" font-family="Arial" font-size="17">owner_id: uuid (FK)</text>
+<text x="675" y="440.0" font-family="Arial" font-size="17">event_type: text</text>
+<text x="675" y="462.0" font-family="Arial" font-size="17">aggregate_id: uuid</text>
+<text x="675" y="484.0" font-family="Arial" font-size="17">revision: int</text>
+<text x="675" y="506.0" font-family="Arial" font-size="17">dedup_key: text (AK1)</text>
+<text x="675" y="528.0" font-family="Arial" font-size="17">status: text</text>
+<text x="675" y="550.0" font-family="Arial" font-size="17">attempts: int</text>
+<text x="675" y="572.0" font-family="Arial" font-size="17">next_attempt_at: timestamptz</text>
+<text x="675" y="594.0" font-family="Arial" font-size="17">lease_until: timestamptz NULL</text>
+<text x="675" y="616.0" font-family="Arial" font-size="17">delivered_at: timestamptz NULL</text>
+<text x="226.0" y="1041.0" font-family="Arial" font-size="17" font-weight="bold">Экспорт</text>
+<text x="207.0" y="1063.0" font-family="Arial" font-size="17" font-weight="bold">(export_jobs)</text>
+<text x="35" y="1096.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="35" y="1136.5" font-family="Arial" font-size="17">owner_id: uuid (FK)</text>
+<text x="35" y="1158.5" font-family="Arial" font-size="17">period_from: date</text>
+<text x="35" y="1180.5" font-family="Arial" font-size="17">period_to: date</text>
+<text x="35" y="1202.5" font-family="Arial" font-size="17">format: text</text>
+<text x="35" y="1224.5" font-family="Arial" font-size="17">status: text</text>
+<text x="35" y="1246.5" font-family="Arial" font-size="17">file_ref: text NULL</text>
+<text x="35" y="1268.5" font-family="Arial" font-size="17">expires_at: timestamptz NULL</text>
+<text x="860.0078125" y="1041.0" font-family="Arial" font-size="17" font-weight="bold">Удаление</text>
+<text x="823.0" y="1063.0" font-family="Arial" font-size="17" font-weight="bold">(deletion_requests)</text>
+<text x="675" y="1096.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="675" y="1135.5" font-family="Arial" font-size="17">owner_id: uuid (FK) NULL</text>
+<text x="675" y="1157.5" font-family="Arial" font-size="17">subject_hash: bytea</text>
+<text x="675" y="1179.5" font-family="Arial" font-size="17">requested_at: timestamptz</text>
+<text x="675" y="1201.5" font-family="Arial" font-size="17">completed_at: timestamptz NULL</text>
+<text x="675" y="1223.5" font-family="Arial" font-size="17">status: text</text>
+<rect x="432.5" y="152.5" width="52.0" height="22" fill="white"/>
+<text x="434.5" y="169.5" font-family="Arial" font-size="17">имеет</text>
+<rect x="667.5" y="167.5" width="52.0" height="22" fill="white"/>
+<text x="669.5" y="184.5" font-family="Arial" font-size="17">имеет</text>
+<rect x="503.0" y="507.5" width="52.0" height="22" fill="white"/>
+<text x="505.0" y="524.5" font-family="Arial" font-size="17">имеет</text>
+<rect x="597.0" y="517.5" width="52.0" height="22" fill="white"/>
+<text x="599.0" y="534.5" font-family="Arial" font-size="17">имеет</text>
+<rect x="18" y="1389.0" width="568.0" height="21" fill="white"/>
+<text x="20" y="1405.0" font-family="Arial" font-size="16">Сплошная связь — идентифицирующая; пунктир — неидентифицирующая.</text>
+<rect x="18" y="1410.0" width="628.984375" height="21" fill="white"/>
+<text x="20" y="1426.0" font-family="Arial" font-size="16">Точка у потомка: 0..N; Z — 0..1; P — 1..N. Ромб у родителя — необязательная связь.</text>
+<rect x="18" y="1431.0" width="658.96875" height="21" fill="white"/>
+<text x="20" y="1447.0" font-family="Arial" font-size="16">UQ — ограничение уникальности с допустимым NULL; это не альтернативный ключ AK.</text>
+</svg>

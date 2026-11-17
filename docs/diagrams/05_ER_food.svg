@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1440">
+<rect width="100%" height="100%" fill="white" />
+<rect x="345" y="15" width="470" height="126" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="345,67 815,67" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="345,104 815,104" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="25" y="300" width="470" height="402" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="25,352 495,352" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="25,389 495,389" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="665" y="300" width="470" height="241" rx="0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="665,352 1135,352" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="665,389 1135,389" fill="none" stroke="black" stroke-width="1.5" />
+<rect x="345" y="1050" width="470" height="195" rx="15" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="345,1102 815,1102" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="345,1162 815,1162" fill="none" stroke="black" stroke-width="1.5" />
+<polyline points="462.5,141 462.5,220 260,220 260.0,300" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="260.0" cy="300" r="5" fill="black" />
+<polygon points="462.5,141 468.5,151.0 462.5,161.0 456.5,151.0" fill="white" stroke="black" stroke-width="1.5" />
+<polyline points="697.5,141 697.5,250 900,250 900.0,300" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="900.0" cy="300" r="5" fill="black" />
+<polyline points="260.0,702 260,950 462.5,950 462.5,1050" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="8 6" />
+<circle cx="462.5" cy="1050" r="5" fill="black" />
+<polyline points="900.0,541 900,990 697.5,990 697.5,1050" fill="none" stroke="black" stroke-width="1.5" />
+<circle cx="697.5" cy="1050" r="5" fill="black" />
+<text x="521.0" y="36.0" font-family="Arial" font-size="17" font-weight="bold">Пользователь</text>
+<text x="552.0" y="58.0" font-family="Arial" font-size="17" font-weight="bold">(users)</text>
+<text x="355" y="91.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="355" y="128.5" font-family="Arial" font-size="17">Поля раскрыты в другом фрагменте</text>
+<text x="225.5" y="321.0" font-family="Arial" font-size="17" font-weight="bold">Продукт</text>
+<text x="218.5" y="343.0" font-family="Arial" font-size="17" font-weight="bold">(products)</text>
+<text x="35" y="376.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="870.5" y="321.0" font-family="Arial" font-size="17" font-weight="bold">Блюдо</text>
+<text x="865.0" y="343.0" font-family="Arial" font-size="17" font-weight="bold">(recipes)</text>
+<text x="675" y="376.5" font-family="Arial" font-size="17">id: uuid (PK)</text>
+<text x="675" y="416.0" font-family="Arial" font-size="17">owner_id: uuid (FK)</text>
+<text x="675" y="438.0" font-family="Arial" font-size="17">name: text</text>
+<text x="675" y="460.0" font-family="Arial" font-size="17">yield_g: decimal(10,3)</text>
+<text x="675" y="482.0" font-family="Arial" font-size="17">nutrients_snapshot: jsonb</text>
+<text x="675" y="504.0" font-family="Arial" font-size="17">version: bigint</text>
+<text x="675" y="526.0" font-family="Arial" font-size="17">deleted_at: timestamptz NULL</text>
+<text x="532.0" y="1071.0" font-family="Arial" font-size="17" font-weight="bold">Ингредиент</text>
+<text x="500.0" y="1093.0" font-family="Arial" font-size="17" font-weight="bold">(recipe_ingredients)</text>
+<text x="355" y="1127.0" font-family="Arial" font-size="17">recipe_id: uuid (PK, FK)</text>
+<text x="355" y="1149.0" font-family="Arial" font-size="17">line_no: int (PK)</text>
+<text x="355" y="1187.5" font-family="Arial" font-size="17">product_id: uuid (FK)</text>
+<text x="355" y="1209.5" font-family="Arial" font-size="17">amount: decimal(10,3)</text>
+<text x="355" y="1231.5" font-family="Arial" font-size="17">product_snapshot: jsonb</text>
+<rect x="432.5" y="152.5" width="52.0" height="22" fill="white" />
+<text x="434.5" y="169.5" font-family="Arial" font-size="17">имеет</text>
+<rect x="667.5" y="167.5" width="52.0" height="22" fill="white" />
+<text x="669.5" y="184.5" font-family="Arial" font-size="17">имеет</text>
+<rect x="219.5" y="798.0" width="73.0" height="22" fill="white" />
+<text x="221.5" y="815.0" font-family="Arial" font-size="17">входит в</text>
+<rect x="856.5" y="737.5" width="79.0" height="22" fill="white" />
+<text x="858.5" y="754.5" font-family="Arial" font-size="17">содержит</text>
+<rect x="705.5" y="1024.0" width="16.0" height="23" fill="white" />
+<text x="707.5" y="1042.0" font-family="Arial" font-size="18">P</text>
+<rect x="18" y="1369.0" width="568.0" height="21" fill="white" />
+<text x="20" y="1385.0" font-family="Arial" font-size="16">Сплошная связь — идентифицирующая; пунктир — неидентифицирующая.</text>
+<rect x="18" y="1390.0" width="628.984375" height="21" fill="white" />
+<text x="20" y="1406.0" font-family="Arial" font-size="16">Точка у потомка: 0..N; Z — 0..1; P — 1..N. Ромб у родителя — необязательная связь.</text>
+<rect x="18" y="1411.0" width="658.96875" height="21" fill="white" />
+<text x="20" y="1427.0" font-family="Arial" font-size="16">UQ — ограничение уникальности с допустимым NULL; это не альтернативный ключ AK.</text>
+<text x="35.0" y="415.5" font-family="Arial" font-size="17.0" text-anchor="start">owner_id: uuid (FK) NULL</text><text x="35.0" y="436.5" font-family="Arial" font-size="17.0" text-anchor="start">provider: text (UQ1) NULL</text><text x="35.0" y="457.5" font-family="Arial" font-size="17.0" text-anchor="start">external_id: text (UQ1) NULL</text><text x="35.0" y="478.5" font-family="Arial" font-size="17.0" text-anchor="start">barcode: text NULL</text><text x="35.0" y="499.5" font-family="Arial" font-size="17.0" text-anchor="start">name: text</text><text x="35.0" y="520.5" font-family="Arial" font-size="17.0" text-anchor="start">source_url: text NULL</text><text x="35.0" y="541.5" font-family="Arial" font-size="17.0" text-anchor="start">basis_unit: text</text><text x="35.0" y="562.5" font-family="Arial" font-size="17.0" text-anchor="start">kcal: decimal(10,3)</text><text x="35.0" y="583.5" font-family="Arial" font-size="17.0" text-anchor="start">protein: decimal(10,3)</text><text x="35.0" y="604.5" font-family="Arial" font-size="17.0" text-anchor="start">fat: decimal(10,3)</text><text x="35.0" y="625.5" font-family="Arial" font-size="17.0" text-anchor="start">carbs: decimal(10,3)</text><text x="35.0" y="646.5" font-family="Arial" font-size="17.0" text-anchor="start">fetched_at: timestamptz NULL</text><text x="35.0" y="667.5" font-family="Arial" font-size="17.0" text-anchor="start">version: bigint</text><text x="35.0" y="688.5" font-family="Arial" font-size="17.0" text-anchor="start">deleted_at: timestamptz NULL</text></svg>
